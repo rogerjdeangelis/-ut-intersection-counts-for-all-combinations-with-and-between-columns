@@ -4,9 +4,9 @@ Intersection counts for all combinations with and between columns
 
     Intersection counts for all combinations with and between columns
 
-    github
-    https://tinyurl.com/5abej43t
-    https://github.com/rogerjdeangelis/-ut-intersection-counts-for-all-combinations-with-and-between-columns
+    github                                                                                                  
+    https://tinyurl.com/2rwbjarc                                                                            
+    https://github.com/rogerjdeangelis/utl-intersection-counts-for-all-combinations-with-and-between-columns
 
     related repos
     https://github.com/rogerjdeangelis/utl-how-to-find-intersection-between-all-possible-pairs-of-sets-in-a-two-column-table
